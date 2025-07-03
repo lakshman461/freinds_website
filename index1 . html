@@ -19,13 +19,13 @@
   <h1 style="text-align:center;">My Friends</h1>
 
   <div class="card">
-    <img src="friend1.jpg" alt="Friend 1" class="photo" />
+    <img src="friend1 . jpg" alt="Friend 1" class="photo" />
     <h2>amara babu</h2>
     <p><b>Bio:</b> keep smiling.</p>
   </div>
 
   <div class="card">
-    <img src="friend2.jpg" alt="Friend 2" class="photo" />
+    <img src="friend2 . jpg" alt="Friend 2" class="photo" />
     <h2>lakshman</h2>
     <p><b>Bio:</b> life is very short abba always be happy.</p>
   </div>
